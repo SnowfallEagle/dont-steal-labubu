@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions;
 using MirraGames.SDK;
-using MirraGames.SDK.MirraWeb;
+using MirraGames.SDK.Common;
 
 public class AdManager : Singleton<AdManager>
 {

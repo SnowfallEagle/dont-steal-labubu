@@ -7830,7 +7830,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98d99d2159fa85d439938dae86c47301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DebugMobile: 1
+  DebugMobile: 0
 --- !u!1001 &671235871
 PrefabInstance:
   m_ObjectHideFlags: 0
