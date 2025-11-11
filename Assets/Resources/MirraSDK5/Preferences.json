@@ -1,0 +1,165 @@
+{
+    "groupCollection": [
+        {
+            "key": "Editor",
+            "group": {
+                "boolCollection": [],
+                "intCollection": [],
+                "floatCollection": [],
+                "stringCollection": [
+                    {
+                        "key": "Configuration",
+                        "value": "EditorConfiguration"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "Build",
+            "group": {
+                "boolCollection": [],
+                "intCollection": [],
+                "floatCollection": [],
+                "stringCollection": [
+                    {
+                        "key": "Configuration",
+                        "value": "MirraWebConfiguration"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "EditorConfiguration",
+            "group": {
+                "boolCollection": [
+                    {
+                        "key": "IAchievements.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IAudio.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "ITime.Visible",
+                        "value": false
+                    }
+                ],
+                "intCollection": [],
+                "floatCollection": [],
+                "stringCollection": []
+            }
+        },
+        {
+            "key": "MirraWebConfiguration",
+            "group": {
+                "boolCollection": [
+                    {
+                        "key": "ITime.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IPause.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IPlayer.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IPlatform.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IPayments.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IDevice.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IAds.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "Logger_PropertyGroup.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "Y8_PropertyGroup.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "CrazyGames_PropertyGroup.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "GameDistribution_PropertyGroup.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "VK_PropertyGroup.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "OK_PropertyGroup.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "Y8_PropertyGroup.Override",
+                        "value": false
+                    },
+                    {
+                        "key": "CrazyGames_PropertyGroup.Override",
+                        "value": false
+                    },
+                    {
+                        "key": "GameDistribution_PropertyGroup.Override",
+                        "value": false
+                    },
+                    {
+                        "key": "VK_PropertyGroup.Override",
+                        "value": false
+                    },
+                    {
+                        "key": "OK_PropertyGroup.Override",
+                        "value": false
+                    },
+                    {
+                        "key": "Lagged_PropertyGroup.Visible",
+                        "value": false
+                    },
+                    {
+                        "key": "IPlatform.Override",
+                        "value": false
+                    }
+                ],
+                "intCollection": [],
+                "floatCollection": [],
+                "stringCollection": [
+                    {
+                        "key": "Y8_PropertyGroup",
+                        "value": "{\"adSense\":{\"dataAdClient\":\"\",\"dataAdChannel\":\"\",\"dataAdBreakTest\":false,\"interstitialInterval\":60.0}}"
+                    },
+                    {
+                        "key": "CrazyGames_PropertyGroup",
+                        "value": "{\"getUserToken\":false,\"interstitialInterval\":60.0}"
+                    },
+                    {
+                        "key": "OK_PropertyGroup",
+                        "value": "{\"extraArgs\":\"\",\"interstitialInterval\":60.0}"
+                    },
+                    {
+                        "key": "VK_PropertyGroup",
+                        "value": "{\"appId\":\"\",\"extraArgs\":\"\",\"interstitialInterval\":60.0}"
+                    },
+                    {
+                        "key": "GameDistribution_PropertyGroup",
+                        "value": "{\"gameId\":\"\",\"adsDebug\":false,\"adsAutoplay\":false,\"adsLocale\":\"en\",\"interstitialInterval\":60.0}"
+                    }
+                ]
+            }
+        }
+    ]
+}

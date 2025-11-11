@@ -1,0 +1,159 @@
+{
+  "ui_tutorial_tutorial": "Туториал",
+  "ui_tutorial_walking":  "Хождение",
+  "ui_tutorial_interact": "Взаимодействие",
+
+	"ui_hud_overlay_upgrade_brainrot": "Улучшить",
+
+  "ad_in_1": "Реклама через 1 секунду",
+  "ad_in_2": "Реклама через 2 секунды",
+
+	"level_short": "лвл",
+	"ui_seconds_short": "сек",
+	"ui_hud_overlay_place_brainrot": "Поставить<br>Брейнрота",
+	"ui_shop_title": "Магазин",
+	"shop_speed_multiplier": "Ускорение",
+	"ui_hud_button_drop": "Положить",
+
+	"item_food_los_tralaleritos": "Тралалерито",
+	"item_food_los_sahur": "Сахур",
+	"item_food_las_tralaleritos": "Тралалерита",
+	"item_food_orcalero_orcala": "Оркалеро",
+	"item_food_bombombini_gussini": "Гуссини",
+	"item_food_tralalero_tralala": "Тралалеро",
+	"item_food_nucleauro_dinosauro": "Нуклеаро",
+	"item_food_bombardiro_crocodilo": "Бомбардино",
+	"item_food_los_orcaleritos": "Оркалерито",
+	"item_food_bombombona_pecorona": "Бомбомбона",
+	"item_food_la_grande": "Ла Гранде",
+	"item_food_lokomomu_milkuma": "Локомому",
+	"item_food_trenostruzzo": "Треноструццо",
+
+
+	"ui_button_home": "Домой",
+	"ui_button_rebirth": "Переродиться",
+
+	"ui_toggle_button_my_music": "Моя<br>музыка",
+	"ui_toggle_button_others_music": "Музыка<br>других",
+	"ui_toggle_button_all_music": "Все<br>звуки",
+
+	"ui_minutes_short": "мин",
+	"ui_ready": "Готово",
+
+	"ui_rebirth_title": "Перерождение",
+	"ui_rebirth_current_multiplier": "Текущий множитель",
+	"ui_reward": "Награда",
+	"ui_rebirth_plus_multiplier": "Множитель",
+
+	"ui_notify_not_enough_money": "Недостаточно денег",
+
+	"reward_coins_x2": "x2 денег",
+	"reward_speed_x2": "x2 скорости",
+
+	"button_3d_forever": "Навсегда",
+	"button_3d_ad": "Реклама",
+
+	"ui_skin_stand_speed": "Скорость",
+
+	"tutorial_what_to_do": "Собирай кристаллы<br>чтобы купить брейнротов",
+	"tutorial_rotate_mouse": "Поворот мыши",
+
+	"parkour_zone_title": "Паркур откроется через",
+	"parkour_zone_reward": "Награда",
+
+	"skin_los_tralaleritos": "Тралалерито",
+	"skin_los_sahur": "Сахур",
+	"skin_las_tralaleritos": "Тралалерита",
+	"skin_orcalero_orcala": "Оркалеро",
+	"skin_bombombini_gussini": "Гуссини",
+	"skin_tralalero_tralala": "Тралалеро",
+	"skin_nucleauro_dinosauro": "Нуклеаро",
+	"skin_bombardiro_crocodilo": "Бомбардино",
+	"skin_los_orcaleritos": "Оркалерито",
+	"skin_bombombona_pecorona": "Оркалерито",
+	"skin_la_grande": "Оркалерито",
+	"skin_lokomomu_milkuma": "Оркалерито",
+	"skin_trenostruzzo": "Оркалерито",
+
+	"zone_1": "Сахур зона",
+	"zone_2": "Нуклеаро зона",
+	"zone_3": "Оркалерито зона",
+	"zone_4": "Бомбомбона зона",
+	"zone_5": "Локомому зона",
+	"zone_6": "Тралалерито зона",
+	"zone_7": "Диназавро зона",
+
+
+
+
+
+
+
+	"bot_nickname_player": "Игрок",
+	"grill": "Ферма",
+
+	"inapp_turn_off_ads": "Отключить рекламу",
+	"inapp_growth_x2": "Скорость роста x2",
+
+	"shop_title_chefs": "Шефы",
+	"shop_title_food": "Покупка",
+	"shop_title_sell": "Продажа",
+
+	"ui_auth_title": "Авторизация",
+	"ui_auth_text": "Для продолжения этой операции вам необходимо авторизоваться",
+	"ui_auth_button": "Авторизоваться",
+
+	"ui_hud_pause": "Пауза",
+	"ui_hud_button_buy": "Купить",
+	"ui_hud_button_cook": "Ферма",
+	"ui_hud_button_sell": "Продать",
+	"ui_hud_overlay_collect": "Собрать",
+
+	"ui_hover_overlay_done": "Готово",
+	"ui_hover_overlay_chef_boost": "к скорости роста",
+
+	"ui_inventory_slot_kg": "кг",
+
+	"ui_continue": "Продолжить",
+	"ui_close": "Закрыть",
+	"ui_pause_title": "Пауза",
+	"ui_pause_settings": "Настройки",
+	"ui_settings_title": "Настройки",
+	"ui_settings_music": "Музыка",
+	"ui_settings_sound": "Звуки",
+
+	"ui_shop_title_chef": "Шефы",
+	"ui_shop_title_food": "Еда",
+	"ui_shop_element_rarity_common": "Обычный",
+	"ui_shop_element_rarity_uncommon": "Необычный",
+	"ui_shop_element_rarity_epic": "Эпический",
+
+	"item_chef_first": "Стажер",
+	"item_chef_second": "Бывалый повар",
+
+	"item_food_bread": "Хлеб",
+	"item_food_carrot": "Морковка",
+	"item_food_chicken": "Курица",
+	"item_food_dolphine": "Дельфин",
+	"item_food_egg": "Яйцо",
+	"item_food_elephant": "Слон",
+	"item_food_fish": "Рыба",
+	"item_food_mushroom": "Гриб",
+	"item_food_octopus": "Осьминог",
+	"item_food_potato": "Картофель",
+	"item_food_tomato": "Томат",
+	"item_food_dragon": "Дракон",
+
+	"ui_hud_tutorial_overlay_title": "Туториал",
+	"ui_tutorial_equip_food_in_inventory": "Нажмите на брейнрота в инвентаре",
+	"ui_tutorial_place_food": "Нажмите на огород чтобы поставить брейнрота",
+	"ui_tutorial_wait_preparing": "Подождите пока растет брейнрот",
+	"ui_tutorial_take_food": "Возьмите брейнрота",
+	"ui_tutorial_sell": "Продайте брейнрота",
+	"ui_tutorial_buy_new": "Купите нового брейнрота",
+
+	"ui_notify_tutorial_completed": "Туториал завершен<br>Удачи!",
+	"ui_notify_inventory_is_full": "Инвентарь полон!",
+	"ui_notify_inapp_success": "Оплата прошла успешно",
+	"ui_notify_inapp_failed": "Оплата не прошла"
+}
