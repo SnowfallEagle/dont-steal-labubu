@@ -37,7 +37,8 @@ public class GameManager : Singleton<GameManager>
     }
     public bool Desktop => !Mobile;
 
-    public bool InappsAvailable => MirraSDK.IsInitialized && (MirraSDK.Payments.IsPaymentsAvailable && MirraSDK.Platform.Current != PlatformType.CrazyGames);
+    public bool InappsAvailable => false;
+    //public bool InappsAvailable => MirraSDK.IsInitialized && (MirraSDK.Payments.IsPaymentsAvailable && MirraSDK.Platform.Current != PlatformType.CrazyGames);
 
     private void Awake()
     {

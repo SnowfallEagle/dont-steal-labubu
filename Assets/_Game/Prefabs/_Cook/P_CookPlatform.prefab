@@ -606,7 +606,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: bd1ba95c5bb2f1b48bc1d651ebbb2e4d, type: 3}
-  m_Color: {r: 1, g: 1, b: 0, a: 1}
+  m_Color: {r: 0.5785878, g: 0.4009434, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1286,6 +1286,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 87581ff43e41b5a4bbd77a162d79f4a1,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 944b8426ee1052147b669d90c83b6a96, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 87581ff43e41b5a4bbd77a162d79f4a1,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 13c49f9d2066b814e8c9ad5ea578664d, type: 2}
     - target: {fileID: 919132149155446097, guid: 87581ff43e41b5a4bbd77a162d79f4a1,
         type: 3}
       propertyPath: m_Name
