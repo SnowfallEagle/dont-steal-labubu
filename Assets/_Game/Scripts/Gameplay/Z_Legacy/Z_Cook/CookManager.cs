@@ -1707,7 +1707,7 @@ namespace Cook
                     Save.Inventory[i].Count = 0;
                 }
 
-                OnTutorialOpen();
+                //OnTutorialOpen();
 
                 Save.FirstLaunch = false;
                 MirraSDK.Data.SetObject("Save", Save, true);
@@ -2333,7 +2333,7 @@ namespace Cook
 
         public void OnTutorialClose()
         {
-            TutorialPanelWrapper.gameObject.SetActive(false);
+            // TutorialPanelWrapper.gameObject.SetActive(false);
             
             // Update cursor visibility for tutorial
             InputGame.Instance.SetTutorialState(false);
