@@ -10,7 +10,7 @@
 
 	"level_short": "лвл",
 	"ui_seconds_short": "сек",
-	"ui_hud_overlay_place_brainrot": "Поставить<br>Labubu",
+	"ui_hud_overlay_place_brainrot": "Поставить",
 	"ui_shop_title": "Магазин",
 	"shop_speed_multiplier": "Ускорение",
 	"ui_hud_button_drop": "Положить",
@@ -55,7 +55,7 @@
 
 	"ui_skin_stand_speed": "Скорость",
 
-	"tutorial_what_to_do": "Собирай кристаллы<br>чтобы купить Labubu",
+	"tutorial_what_to_do": "Собирай кристаллы<br>чтобы купить Лабубу",
 	"tutorial_rotate_mouse": "Поворот мыши",
 
 	"parkour_zone_title": "Паркур откроется через",
@@ -145,12 +145,12 @@
 	"item_food_dragon": "Диззи",
 
 	"ui_hud_tutorial_overlay_title": "Туториал",
-	"ui_tutorial_equip_food_in_inventory": "Нажмите на Labubu в инвентаре",
-	"ui_tutorial_place_food": "Нажмите на огород чтобы поставить Labubu",
-	"ui_tutorial_wait_preparing": "Подождите пока растет Labubu",
-	"ui_tutorial_take_food": "Возьмите Labubu",
-	"ui_tutorial_sell": "Продайте Labubu",
-	"ui_tutorial_buy_new": "Купите нового Labubu",
+	"ui_tutorial_equip_food_in_inventory": "Нажмите на Лабубу в инвентаре",
+	"ui_tutorial_place_food": "Нажмите на огород чтобы поставить Лабубу",
+	"ui_tutorial_wait_preparing": "Подождите пока растет Лабубу",
+	"ui_tutorial_take_food": "Возьмите Лабубу",
+	"ui_tutorial_sell": "Продайте Лабубу",
+	"ui_tutorial_buy_new": "Купите нового Лабубу",
 
 	"ui_notify_tutorial_completed": "Туториал завершен<br>Удачи!",
 	"ui_notify_inventory_is_full": "Инвентарь полон!",

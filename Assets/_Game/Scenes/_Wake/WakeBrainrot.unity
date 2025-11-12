@@ -2046,7 +2046,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CurrentLanguage: 0
-  DebugLanguage: 1
+  DebugLanguage: 0
 --- !u!1 &141521952
 GameObject:
   m_ObjectHideFlags: 0
